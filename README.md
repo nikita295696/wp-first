@@ -4,4 +4,5 @@
 ```
 Nikita Bykov
 Egor Volkov
+Anton Galushka
 ```
