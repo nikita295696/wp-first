@@ -20,19 +20,19 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'database_name_here' );
+define( 'DB_NAME', 'site.com.ua' );
 
 /** MySQL database username */
-define( 'DB_USER', 'username_here' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
 
 /** Database charset to use in creating database tables. */
-define( 'DB_CHARSET', 'utf8' );
+define( 'DB_CHARSET', 'utf8mb4' );
 
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define( 'AUTH_KEY',         '=QPmvSXz:t ~!Qem3B&ejxp0pgHKaLC2 PRb>b{ZfyMhfVn2qHCvR^9QvPhVB8/i' );
+define( 'SECURE_AUTH_KEY',  'ac^!Wsk+T#s}`bv1wPc=sdb7#&j~.:l:*K5>*VH~zN5ty`mS{YNh&UXC iLT$[>(' );
+define( 'LOGGED_IN_KEY',    'p?uNy&V*Zu=/QHwR`XR7q=@Y9@ArXW4WKSJ$Nb1or,N?%SNrq~ep7g>M4mOd}jj8' );
+define( 'NONCE_KEY',        'hn1W^#AiEw;AV@Fn|Au(xjcm!*.]c`)pPbI/4dJqDjz0Z<a,s+I:_/)*^KGFOwbu' );
+define( 'AUTH_SALT',        'hbUkKe}c~(=Tyi=5wSjza8HtH4A%~V9W[n]R(/Kjqlm*:C>Qdy% rb3qp.?ZFR+}' );
+define( 'SECURE_AUTH_SALT', 'z*0Hfkxy~8/:*Yj.:K%CYN<*Dvm&LG7-usy1]{^t,V]{rK8?qu`<&:/4XP_B8kvC' );
+define( 'LOGGED_IN_SALT',   '5R b@@,]u^rO|@@rEAd3oi?GthA1h|t!>ZqT)-L#Q5]trxmLZcZo `vxHYN5-u,P' );
+define( 'NONCE_SALT',       '$Pn>D|t91t`raldEB9lb R[ekm8K=bZ^+|S3]KdyYZ3*8f(@Wr>ojT6~ 9}cv(jO' );
 
 /**#@-*/
 
